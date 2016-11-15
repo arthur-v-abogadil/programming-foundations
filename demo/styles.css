@@ -1,0 +1,53 @@
+body {
+
+        background-color: orange;
+        color: white;
+
+        font-family: 'Questrial', cursive;
+
+    }
+
+    h2 {
+
+        outline: 1px solid white;
+        padding: 7px;
+        width: 20%;
+        margin: 30px auto;
+        text-align: center;
+
+    }
+
+    div.qoute {
+
+        font-family: 'Libre Baskerville', serif;
+        font-size: 3em;
+
+        width: 50%;
+        margin: 50px auto;
+
+    }
+
+    div.by {
+
+        font-family: 'Questrial', cursive;
+        margin: 50px auto;
+        width: 50%;
+        font-size: 1.5em;
+        text-align: right;
+
+    }
+
+    div.links {
+
+        width: 75%;
+        margin: 200px auto;
+        text-align: center;
+
+    }
+
+    a {
+
+        color: white;
+        font-size: 1.2em;
+
+    }
