@@ -1,3 +1,7 @@
+"Technology alone is not enough. It’s technology married with the liberal arts, married with the humanities, that yields us the results that make our hearts sing."
+
+- Steve Jobs
+
 # Programming Foundations
 
 This contains the materials i use for the seminar / workshop Programming Foundations
