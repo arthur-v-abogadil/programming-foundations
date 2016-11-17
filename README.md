@@ -10,3 +10,7 @@ If you have attended one of my sessions and have any questions, clarifications a
 
 "Technology alone is not enough. It’s technology married with the liberal arts, married with the humanities, that yields us the results that make our hearts sing." - Steve Jobs
 
+## Past Sessions
+
+11/17/2016 - Quezon Science High School
+
