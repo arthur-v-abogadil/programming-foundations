@@ -1,6 +1,6 @@
 # Programming Foundations: How To Get Started in Web Development
 
-This contains the materials (Demo code and Presentaion Slides) i use for the seminar and workshop with the same title.
+This contains the materials (*Demo code and Presentation Slides*) i use for the seminar and workshop with the same title.
 
 ## Questions 
 
